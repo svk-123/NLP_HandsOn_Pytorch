@@ -1,5 +1,6 @@
 data/
+dataset/
 model/
 .ipynb_*
 *.pt
-
+tmp*
